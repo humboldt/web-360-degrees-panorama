@@ -1,2 +1,2 @@
-# 360_Panorama
-Photography: How to create and show a 360° panorama.
+# 360° Panorama
+How to create and show a 360° panorama.
