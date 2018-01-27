@@ -1,4 +1,4 @@
-# 360° Panorama
+# Web: 360° Panorama
 
 ## 1 Description
 
